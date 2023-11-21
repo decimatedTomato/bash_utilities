@@ -1,0 +1,5 @@
+alias b="./build.sh"
+alias bo="/c/Users/green/Desktop/Personal/Programs/Bash/build_outer.sh"
+alias utility="/c/Users/green/Desktop/Personal/Programs/Bash/utilities/utilities.sh"
+alias copy="/c/Users/green/Desktop/Personal/Programs/Bash/utilities/clip.exe"
+alias paste="/c/Users/green/Desktop/Personal/Programs/Bash/utilities/print_clip.exe"
